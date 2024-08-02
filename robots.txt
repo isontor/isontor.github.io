@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isontor.github.io/sitemap.html.gz
+Sitemap: https://isontor.github.io/app/sitemap.html.gz
+Sitemap: https://isontor.github.io/assets/sitemap.html.gz
+Sitemap: https://isontor.github.io/css/sitemap.html.gz
+Sitemap: https://isontor.github.io/includes/sitemap.html.gz
+Sitemap: https://isontor.github.io/item/sitemap.html.gz
+Sitemap: https://isontor.github.io/src/sitemap.html.gz
